@@ -4997,7 +4997,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x40_Pin"
+		(property "Value" "Molex_SlimStack_53748-0408_2x20_P0.50mm"
 			(at 51.435 35.56 0)
 			(effects
 				(font

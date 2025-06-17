@@ -21,3 +21,8 @@ I have not looked into a suitable part for U2 from JLCPCB, but I made CPL files 
 
 # Finished boards from JLCPCB
 ![](https://github.com/rosaage/ntr-subcard/blob/main/jlcpcb_finished_boards.jpg)
+
+# Future revisions
+While I don't have any plans to make a new revision right now I have some things I would like to add.
+By moving the CE pins from flash/eeprom to a SPDT switch and adding a second pull-up it would be possible
+to have one card with both eeprom and flash at the same time. A set of solder bridge pads or pads for 0-ohm resistors would also be a quick option if no suitable switch can be sourced.
